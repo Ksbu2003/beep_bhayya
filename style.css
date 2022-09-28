@@ -1,0 +1,30 @@
+body{
+  background-color: #FEFCE0;
+}
+.btn-outline-secondary{
+  margin-top: 10px;
+  margin-left: 95%;
+}
+.offcanvas-header{
+  background-color: #d8ffe8;
+}
+.offcanvas-start{
+  margin-left: 74%;
+}
+.offcanvas .offcanvas-header .btn-close{
+  color: red;
+}
+.offcanvas-body{
+  background-color: #d8ffe8;
+}
+.beep{
+  margin-left: 5%;
+  margin-top: 2%;
+  width: 10%;
+  height: 5%;
+}
+.card{
+  margin-left: 5%;
+  margin-top: 60px;
+  font-size: 100%;
+}
